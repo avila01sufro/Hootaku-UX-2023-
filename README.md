@@ -45,7 +45,7 @@ In this canvas we analyze the problems our application is tackling, how we will 
 
 ## 3. UX Person
 
-//Pending
+The application is designed for users who enjoy Japanese media as a hobby, helping them organize their shows and manga in custom libraries, marking them for future watching, and allowing them to share their opinions on them, along with reading other peoples thoughts on a given piece of media. The usage of the application benefits of using UX Persons to understand its demographic better, and provide more accurate solutions to the frustrations they may encounter.
 
 ![Person_UX_1](./Files/Person_UX_1.png)
 
@@ -63,7 +63,7 @@ In this canvas we analyze the problems our application is tackling, how we will 
 
 ## 5. Customer Journey Map
 
-//Pending
+ Analyzing the feelings and reactions from the user through a Customer Journey map allows us to understand what needs refinement, and bring a better experience to the users in every step of usage in the application.
 
 ![Customer journey map](./Files/cjm.png)
 
