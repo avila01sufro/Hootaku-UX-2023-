@@ -4,7 +4,7 @@ UX study for Hootaku, an application for tracking of anime-related media.
 
 Team 4:
 - Alfredo Ávila — Designer
-- César Astudillo  — Designer
+- César Astudillo  — Expositor
 - Fernando Fernández — Designer
 - Francisco Tropa — Designer
 
