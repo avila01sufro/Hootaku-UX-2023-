@@ -16,12 +16,8 @@ Team 4:
 - [4. Benchmark](#4-benchmark)
 - [5. Customer Journey Map](#5-customer-journey-map)
 - [6. Navigation](#6-navigation)
-  - [6.1. Initial Approach](#61-initial-approach)
-  - [6.2. Improved Navigation](#62-improved-navigation)
 - [7. Wireframes](#7-wireframes)
 - [8. Mockups](#8-mockups)
-  - [8.1. Initial Aproach](#81-initial-approach)
-  - [8.2. Improved Mockups](#82-improved-mockups)
 
 ---
 
@@ -71,13 +67,6 @@ The application is designed for users who enjoy Japanese media as a hobby, helpi
 
 ## 6. Navigation
 
-//Pending
-
-### 6.1. Initial Approach
-
-![Navigation](./Files/Navigation.png)
-
-### 6.2. Improved Navigation
 
 ![NavigationV2](./Files/NavigationV2.png)
 
@@ -85,20 +74,36 @@ The application is designed for users who enjoy Japanese media as a hobby, helpi
 
 ## 7. Wireframes
 
-//Pending
+Landing page 
+![WireframeLandingA](./Files/wf-landing-a.png)
+
+![WireframeLandingB](./Files/wf-landing-b.png)
+
+Search results
+![WireframeSearch](./Files/wf-search.png)
+
+Detailed view
+![WireframeViewA](./Files/wf-view-a.png)
+
+![WireframeViewB](./Files/wf-view-b.png)
+
+User profile
+
+![WireframeProfile](./Files/wf-profile.jpg)
+
 
 ---
 
 ## 8. Mockups
 
-//Pending
+Logged in landing page/Home page
+![MockupHome](./Files/MF_HOMEPAGE_ANIME.png)
 
-### 8.1. Initial Approach
+Anime detail view
+![MockupSeriesDetail](./Files/MF_SERIE_DETAIL.png)
 
-//Pending
+User profile
+![MockupUserProfile](./Files/MF_USER_PROFILE.png)
 
-### 8.2. Improved Mockups
-
-//Pending
 
 ---
