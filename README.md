@@ -65,7 +65,7 @@ In this canvas we analyze the problems our application is tackling, how we will 
 
 //Pending
 
-![Customer journey map](./Files/cjm.png)
+![Customer journey map](./Files/Customer Journey Map.png)
 
 ---
 
