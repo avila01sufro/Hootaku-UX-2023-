@@ -57,7 +57,7 @@ The application is designed for users who enjoy Japanese media as a hobby, helpi
 
 ## 4. Benchmark
 
-//Pending
+![Benchmark](./Files/benchmark.png)
 
 ---
 
@@ -75,11 +75,11 @@ The application is designed for users who enjoy Japanese media as a hobby, helpi
 
 ### 6.1. Initial Approach
 
-![Navigation](./files/Navigation.png)
+![Navigation](./Files/Navigation.png)
 
 ### 6.2. Improved Navigation
 
-![NavigationV2](./files/NavigationV2.png)
+![NavigationV2](./Files/NavigationV2.png)
 
 ---
 
