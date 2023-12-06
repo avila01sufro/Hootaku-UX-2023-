@@ -8,6 +8,9 @@ Team 4:
 - Fernando Fernández — Designer
 - Francisco Tropa — Designer
 
+### Figma link
+https://www.figma.com/file/AKSOIva0IxiAeAbDkCnWDp/Hootaku?type=design&node-id=0%3A1&mode=design&t=9eKbqA5Hmq0wCGpz-1
+
 ## Index
 
 - [1. Introduction](#1-introduction)
