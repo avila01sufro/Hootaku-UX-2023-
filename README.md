@@ -99,14 +99,46 @@ User profile
 
 ## 8. Mockups
 
+### 8.1. Mockups anteriores
+
 Logged in landing page/Home page
-![MockupHome](./Files/MF_HOMEPAGE_ANIME.png)
+[MockupHome](./Files/MF_HOMEPAGE_ANIME.png)
 
 Anime detail view
 ![MockupSeriesDetail](./Files/MF_SERIE_DETAIL.png)
 
 User profile
 ![MockupUserProfile](./Files/MF_USER_PROFILE.png)
+
+### 8.2. Mockups rediseñados
+
+Logged in landing page (Anime section)
+![NewMockupHomeAnime](./Files/MFF_Home_anime.png)
+
+Logged in landing page (Manga section)
+![NewMockupHomeManga](./Files/MFF_Home_manga.png)
+
+User profile
+![NewMockupUserProfile](./Files/MFF_User_Profiles.png)
+
+Series detail view
+![NewMockupDetailView](./Files/MFF_Series_detail.png)
+
+Switch to manga view
+![NewMockupMangaView](./Files/MFF_Manga_detail.png)
+
+Write anime review
+![NewMockupDetailView](./Files/MFF_Reviews_anime.png)
+
+Write manga review
+![NewMockupDetailView](./Files/MFF_Manga_review.png)
+
+Play episode
+![NewMockupWatch](./Files/MFF_Watch_episode.png)
+
+See episode reviews
+![NewMockupEpisodeReviews](./Files/MFF_Episode_review.png)
+
 
 
 ---
