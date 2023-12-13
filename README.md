@@ -1,4 +1,4 @@
-# Hootaku-UX-2023-
+# Hootaku -UX-2023-
 
 UX study for Hootaku, an application for tracking of anime-related media.
 
@@ -21,6 +21,8 @@ https://www.figma.com/file/AKSOIva0IxiAeAbDkCnWDp/Hootaku?type=design&node-id=0%
 - [6. Navigation](#6-navigation)
 - [7. Wireframes](#7-wireframes)
 - [8. Mockups](#8-mockups)
+    - [8.1. Initial Mockups](#81-initial-mockups)
+    - [8.2. Reviewed Mockups](#82-reviewed-mockups)
 
 ---
 
@@ -77,20 +79,20 @@ The application is designed for users who enjoy Japanese media as a hobby, helpi
 
 ## 7. Wireframes
 
-Landing page 
+Landing page\
 ![WireframeLandingA](./Files/wf-landing-a.png)
 
 ![WireframeLandingB](./Files/wf-landing-b.png)
 
-Search results
+Search results\
 ![WireframeSearch](./Files/wf-search.png)
 
-Detailed view
+Detailed view\
 ![WireframeViewA](./Files/wf-view-a.png)
 
 ![WireframeViewB](./Files/wf-view-b.png)
 
-User profile
+User profile\
 
 ![WireframeProfile](./Files/wf-profile.jpg)
 
@@ -99,44 +101,44 @@ User profile
 
 ## 8. Mockups
 
-### 8.1. Mockups anteriores
+### 8.1. Initial Mockups
 
-Logged in landing page/Home page
-[MockupHome](./Files/MF_HOMEPAGE_ANIME.png)
+Logged in landing page/Home page\
+![MockupHome](./Files/MF_HOMEPAGE_ANIME.png)
 
-Anime detail view
+Anime detail view\
 ![MockupSeriesDetail](./Files/MF_SERIE_DETAIL.png)
 
-User profile
+User profile\
 ![MockupUserProfile](./Files/MF_USER_PROFILE.png)
 
-### 8.2. Mockups rediseñados
+### 8.2. Reviewed Mockups
 
-Logged in landing page (Anime section)
+Logged in landing page (Anime section)\
 ![NewMockupHomeAnime](./Files/MFF_Home_anime.png)
 
-Logged in landing page (Manga section)
+Logged in landing page (Manga section)\
 ![NewMockupHomeManga](./Files/MFF_Home_manga.png)
 
-User profile
+User profile\
 ![NewMockupUserProfile](./Files/MFF_User_Profiles.png)
 
-Series detail view
+Series detail view\
 ![NewMockupDetailView](./Files/MFF_Series_detail.png)
 
-Switch to manga view
+Switch to manga view\
 ![NewMockupMangaView](./Files/MFF_Manga_detail.png)
 
-Write anime review
+Write anime review\
 ![NewMockupDetailView](./Files/MFF_Reviews_anime.png)
 
-Write manga review
+Write manga review\
 ![NewMockupDetailView](./Files/MFF_Manga_review.png)
 
-Play episode
+Play episode\
 ![NewMockupWatch](./Files/MFF_Watch_episode.png)
 
-See episode reviews
+See episode reviews\
 ![NewMockupEpisodeReviews](./Files/MFF_Episode_review.png)
 
 
